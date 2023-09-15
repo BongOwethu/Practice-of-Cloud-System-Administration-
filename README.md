@@ -1,7 +1,7 @@
-
-![github_cover_banner]# Practice-of-Cloud-System-Administration 😃
+![github_cover_banner](https://github.com/BongOwethu/Practice-of-Cloud-System-Administration-/blob/main/cloud%20system%20admin%20banner.jpg)
+# Practice-of-Cloud-System-Administration 😃
 ## About 📜
-> 🖤The: DevOps and SRE Practices for Web Services, Volume 2 1st Edition
+> 🖤The: DevOps and SRE Practices for Web Services, Volume 2, 1st Edition
 
 ---
 This is a Systems and Network Administrators go-to and must have book by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
