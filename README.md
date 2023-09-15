@@ -5,9 +5,8 @@
 
 ---
 This is a Systems and Network Administrators go-to and must have book by Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan
-- Released:November 2016
+- Released:September 2014
 - Publisher(s): Addison-Wesley Professional
-- ISBN: 9780133415087
 - 📖The book is a holy grail for beginner and junior Systems and Network Administrators in the cloud which has all the technical and trouble shooting techniques which need to be known in order to become a efficient and productive team mate in the working industry.
 
 ---
